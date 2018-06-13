@@ -6,8 +6,8 @@
 
 
 ## Already Build Releases
-```
 [ReleaseBuild](https://raw.githubusercontent.com/igordias2/AdbApkInstallerTool/master/ReleaseBuild.zip)
+```
 Só extrair e usar o ReleaseBuild.zip
 ```
 
