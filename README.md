@@ -3,7 +3,7 @@
 ## Instalador de APK via ADB
 
 
-## O Que a Tool faz?
+## O que a tool faz?
 * Basicamente ela executa um comando de instalação do apk desejado
 * Facilita em vez de ficar transferindo o APK ou executando o comando e trocando o nome do arquivo a instalar toda hora
 
