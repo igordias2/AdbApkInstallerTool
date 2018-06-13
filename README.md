@@ -25,4 +25,4 @@ Só extrair e usar o ReleaseBuild.zip
 ```
 
 ### Downloads: 
-* [ADB](https://dl.google.com/android/repository/platform-tools_r28.0.0-windows.zip)
+* [ADB](https://dl.google.com/android/repository/platform-tools_r28.0.0-windows.zip) *Já está encluso no projeto*
