@@ -19,7 +19,7 @@ Só extrair e usar o ReleaseBuild.zip
 
 
 ### Instruções de uso: 
-#### *(Caso queira usar o projeto e fazer qualquer modificação)
+#### * (Caso queira usar o projeto e fazer qualquer modificação)
 ```
 -Referencie as duas DLLs que estão na pasta DLL
 -Adicione o ADB na pasta "adb" criada na root do projeto.
