@@ -2,6 +2,7 @@
 Instalador de APK via ADB
 
 Instruções de uso:
+
 -Referencie as duas DLLs que estão na pasta DLL
 -Adicione o ADB na pasta "adb" criada na root do projeto.
 
