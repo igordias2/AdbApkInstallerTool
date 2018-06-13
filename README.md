@@ -3,7 +3,13 @@
 ## Instalador de APK via ADB
 
 
+
+
 ## Already Build Releases
+```
+Só extrair e usar o ReleaseBuild.zip
+```
+
 
 
 ### Instruções de uso:
